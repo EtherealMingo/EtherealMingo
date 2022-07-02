@@ -13,7 +13,7 @@
   
   My major was applied psychology.
   
-  Now I am a front-end engineer.
+  Now I am a 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
 
 
 
