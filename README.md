@@ -17,7 +17,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherealMingo&show_icons=true)
+![Mingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherealMingo&show_icons=true)
 <!--
 **EtherealMingo/EtherealMingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
