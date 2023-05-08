@@ -25,9 +25,10 @@
   <img align="left" title="Github" alt="EtherealMingo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a target="_blank" href="https://juejin.cn/user/4081023833879527">
-  <img align="left" title="掘金" alt="EtherealMingo" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
+  <img align="left" title="掘金" alt="EtherealMingo" width="22px" src="./juejin.svg" />
 </a>
 
+<br />
 
 ![Mingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherealMingo&show_icons=true)
 <!--
