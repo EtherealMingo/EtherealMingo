@@ -4,9 +4,9 @@
  
 :wave:
 <a target="_blank" href="https://juejin.cn/user/4081023833879527">
-  <img align="left" title="掘金" alt="EtherealMingo" width="22px" src="./juejin.svg" />
+  <img align="left" title="掘金" alt="EtherealMingo" width="22px" src="./images/juejin.svg" />
 </a>
-<a target="_blank" href="./Ethereal_Mingo.jpg">
+<a target="_blank" href="./images/Ethereal_Mingo.jpg">
   <img align="left" title="微信" alt="EtherealMingo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#1571383357">
@@ -14,6 +14,9 @@
 </a>
 <a target="_blank" href="https://github.com/EtherealMingo">
   <img align="left" title="Github" alt="EtherealMingo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
+<a target="_blank" href="https://weibo.com/u/1816878571">
+  <img align="left" title="微博" alt="白度水" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
 </a>
 
  <br />
