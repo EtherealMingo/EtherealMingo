@@ -32,7 +32,7 @@
   
   Now I am a 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
 
-
+<figure><embed src="https://wakatime.com/share/@b3ab79e7-8b8a-4cdb-81e7-35bd05f570c0/5c95618a-21d2-4c29-b913-056b38e0e22b.svg"></embed></figure>
 
 ![Mingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherealMingo&show_icons=true)
 <!--
